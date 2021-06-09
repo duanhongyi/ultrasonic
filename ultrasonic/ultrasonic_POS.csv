@@ -1,0 +1,6 @@
+"Designator","Footprint","Mid X","Mid Y","Ref X","Ref Y","Pad X","Pad Y","Layer","Rotation","Comment",
+"Through Hole Items ",
+"J1","PinHeader_1x23_P2.54mm_Vertical","2.5mm","2.5mm","2.5mm","2.5mm","2.5mm","2.5mm","T","90","Conn_01x23_Female",
+"J2","PinHeader_1x23_P2.54mm_Vertical","2.56mm","28.2mm","2.56mm","28.2mm","2.56mm","28.2mm","T","90","Conn_01x23_Female",
+"J3","JST_PH_S7B-PH-K_1x07_P2.00mm_Horizontal","7.5mm","21.4mm","7.5mm","21.4mm","7.5mm","21.4mm","T","270","Conn_01x07_Female",
+"J5","JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal","53.9mm","12.0mm","53.9mm","12.0mm","53.9mm","12.0mm","T","90","Conn_01x04_Male",

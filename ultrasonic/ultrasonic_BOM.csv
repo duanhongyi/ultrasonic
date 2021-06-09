@@ -1,0 +1,5 @@
+"Comment","Description","Designator","Footprint","LibRef","Pins","Quantity","PartNumber","url",
+"Through Hole Items ",
+"Conn_01x23_Female","desc","J1,J2,","PinHeader_1x23_P2.54mm_Vertical","libref","23","2","","",
+"Conn_01x07_Female","desc","J3,","JST_PH_S7B-PH-K_1x07_P2.00mm_Horizontal","libref","7","1","","",
+"Conn_01x04_Male","desc","J5,","JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal","libref","4","1","","",

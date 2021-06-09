@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name DW01)(type Legacy)(uri ${KIPRJMOD}/lib/dw01.lib)(options "")(descr ""))
+  (lib (name FS8205A)(type Legacy)(uri ${KIPRJMOD}/lib/fs8205a.lib)(options "")(descr ""))
+  (lib (name TP4056)(type Legacy)(uri ${KIPRJMOD}/lib/tp4056.lib)(options "")(descr ""))
+)
