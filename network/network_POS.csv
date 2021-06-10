@@ -4,6 +4,7 @@
 "C3","C_0603_1608Metric","31.475mm","17.1mm","31.475mm","17.1mm","32.25mm","17.1mm","T","180","10uf",
 "J1","JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal","51.1mm","9.2mm","51.1mm","9.2mm","53.95mm","10.2mm","T","270","Conn_01x02_Male",
 "J3","JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal","51.2mm","19.6mm","51.2mm","19.6mm","54.05mm","20.6mm","T","270","Conn_01x02_Male",
+"J4","PinSocket_1x07_P1.00mm_Vertical_SMD_Pin1Left","26.4mm","16.5mm","26.4mm","16.5mm","25.425mm","19.5mm","T","0","Conn_01x07_Female",
 "J5","JST_PH_S7B-PH-SM4-TB_1x07-1MP_P2.00mm_Horizontal","5.4mm","14.2mm","5.4mm","14.2mm","8.25mm","20.2mm","T","270","Conn_01x07_Female",
 "R1","C_0603_1608Metric","31.5mm","20.2mm","31.5mm","20.2mm","30.725mm","20.2mm","T","0","1.2k",
 "R2","C_0603_1608Metric","32.9mm","6.2mm","32.9mm","6.2mm","33.675mm","6.2mm","T","180","100R",
@@ -12,5 +13,4 @@
 "U2","SOT-23-6_Handsoldering","31.7mm","13.8mm","31.7mm","13.8mm","32.65mm","15.15mm","T","270","DW01",
 "U3","TSSOP-8_4.4x3mm_P0.65mm","33.6mm","3.4mm","33.6mm","3.4mm","36.4625mm","2.425mm","T","180","FS8205A",
 "Through Hole Items ",
-"J4","PinHeader_1x07_P2.54mm_Vertical","26.7mm","23.4mm","26.7mm","23.4mm","26.7mm","23.4mm","T","0","Conn_01x07_Female",
 "SW1","SW_SPDT_CK-JS102011SAQN","15.8mm","2.6mm","15.8mm","2.6mm","13.3mm","5.35mm","T","0","SW_DIP_x01",

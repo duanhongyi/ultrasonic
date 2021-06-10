@@ -30,7 +30,7 @@ U 1 1 60B8459D
 P 6950 3650
 F 0 "J1" H 6978 3626 50  0000 L CNN
 F 1 "Conn_01x23_Female" H 6978 3535 50  0001 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x23_P2.54mm_Vertical_SMD_Pin1Right" H 6950 3650 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x23_P2.54mm_Vertical_SMD_Pin1Right" H 6950 3650 50  0001 C CNN
 F 3 "~" H 6950 3650 50  0001 C CNN
 	1    6950 3650
 	-1   0    0    -1  
